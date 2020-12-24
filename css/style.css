@@ -1,2 +1,9 @@
+html {
+  font-size: 62.5%; }
+
 body {
-  background: #99cc66; }
+  background: #99cc66;
+  font-family: "Cabin", sans-serif;
+  font-size: 1.8rem;
+  margin: 0;
+  padding: 0 2rem; }
